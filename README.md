@@ -1,5 +1,5 @@
 # Tetris
-Free to use GameMaker: Studio tetris game.
+Free to use _GameMaker: Studio_ _tetris_ game.
 
 ## Introduction
 Tetris is liked to be cloned and imitated, and not least because it is so "simple". The programming, however, is perhaps not as trivial as one might think ... depending on how you implement it.
@@ -353,7 +353,7 @@ However, if fully filled lines were found, they will be removed. This process is
 When a new stone was "thrown" in, it is to be checked if there's enough space for it. If there already a collision takes place, the playing field is full and the game therefore is over.
 
 
-And so the end result looks like. It should be noted that the background was found in a Google search and the font is not by me, either. Everything else can be used freely (it will be nice to have credits to BadToxic, of course ;) ). But errors are also still included in this version - the finder will be allowed to keep them...
+It should be noted that the background was found in a Google search and the font is not by me, either. Everything else can be used freely (it will be nice to have credits to BadToxic, of course ;) ). But errors are also still included in this version - the finder will be allowed to keep them...
 
 I know this tutorial may not be suitable for beginners, but with it you can see how GameMaker works or learn from it if you are already ready for it. ^^
 Also, I would have liked it to be able to show and explain a lot more, but unfortunately I do not have the time. But if you have any questions, please feel free to comment using the original blog post's functionality - I'll try to help. :)
